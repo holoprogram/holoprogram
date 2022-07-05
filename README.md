@@ -2,7 +2,7 @@
 - 👀 I’m interested in python and math.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on learning python together.
-- 📫 How to reach me ...
+- 📫 How to reach me 2488070031@qq.com
 
 <!---
 holoprogram/holoprogram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
